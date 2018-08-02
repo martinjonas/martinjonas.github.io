@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Martin Jonáš"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. student of computer science"
   location         : "Brno, Czech Republic"
-  employer         : "Faculty of Informatics, Masaryk University"
+  employer         : "Masaryk University"
   googlescholar    : "https://scholar.google.cz/citations?user=Vn7qwewAAAAJ"
   email            : "martin.jonas@mail.muni.cz"
   uri              :
