@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Martin Jonáš -- personal website"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
-layout: no-title-post
 ---
 
 I am a Ph.D. student at the Faculty of Informatics, Masaryk University, Brno. My supervisor is Jan Strejček.
