@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Faculty of Informatics, Masaryk University, Brno. My supervisor is [https://fi.muni.cz/~xstrejc](Jan Strejček).
+I am a Ph.D. student at the Faculty of Informatics, Masaryk University, Brno. My supervisor is [Jan Strejček](https://fi.muni.cz/~xstrejc).
 
 Contact
 =======
 
 - *Office:* C415 (ideally after prior email notification)
 - *Phone to office:* (+420) 54949 1879
-- *Email:* [mailto:martin.jonas@mail.muni.cz](martin.jonas@mail.muni.cz)
+- *Email:* [martin.jonas@mail.muni.cz](mailto:martin.jonas@mail.muni.cz)
