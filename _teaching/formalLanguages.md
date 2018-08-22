@@ -7,4 +7,6 @@ venue: "Faculty of Informatics, Masaryk University"
 teachingDate: "2016--now"
 location: "Brno, Czech Republic"
 ---
+
+
 - [Official course web-page](https://is.muni.cz/course/fi/spring2018/IB005)
