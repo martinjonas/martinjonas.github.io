@@ -7,6 +7,4 @@ venue: "Faculty of Informatics, Masaryk University"
 teachingDate: "2014--2015"
 location: "Brno, Czech Republic"
 ---
-
-
 - [Official course web-page](https://is.muni.cz/course/fi/autumn2016/IB102)
