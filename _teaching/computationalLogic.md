@@ -4,7 +4,7 @@ collection: teaching
 type: "master's"
 permalink: /teaching/computationalLogic
 venue: "Faculty of Informatics, Masaryk University"
-date: "2017--now"
+teachingDate: "2017--now"
 location: "Brno, Czech Republic"
 ---
 - [Official course web-page](https://is.muni.cz/course/fi/autumn2018/IA008)
