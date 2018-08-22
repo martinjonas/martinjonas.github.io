@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Faculty of Informatics, Masaryk University, Brno. My supervisor is Jan Strejček.
+I am a Ph.D. student at the Faculty of Informatics, Masaryk University, Brno. My supervisor is [https://fi.muni.cz/~xstrejc](Jan Strejček).
 
 Contact
 =======
