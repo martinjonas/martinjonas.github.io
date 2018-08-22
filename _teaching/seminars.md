@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/seminars
 venue: "Faculty of Informatics, Masaryk University"
-date: 2014-now
+date: 2018-01-01
 location: "Brno, Czech Republic"
 ---
 
